@@ -27,3 +27,21 @@
 .att {
     font-weight: bold;
 }
+/* 行の高さを指定する */
+.line {
+    border: solid;
+}
+.line2 {
+    line-height: 2;
+    border: solid;
+}
+/* フォントの幅を指定する
+.exand {
+    font: 20px "Arial", sans-serif;
+    font-stretch: expanded;
+}
+
+.cond {
+    font: 20px "Arial", sans-serif;
+    font-stretch: condensed;
+} */
