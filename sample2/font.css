@@ -7,11 +7,23 @@
     font-family: Verdana;
     font-variant: small-caps;
 }
-
+/* フォントサイズを指定 */
 .section {
     font-size: 62.5%;
 }
 
 .section2 {
     font-size: 100%;
+}
+
+.section3 {
+    font-size: 125%;
+}
+
+.section4 {
+    font-size: 250%;
+}
+/* フォントの太さを指定 */
+.att {
+    font-weight: bold;
 }
