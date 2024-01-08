@@ -1,3 +1,17 @@
+/* フォントを斜体にする */
 .address_japanese {
     font-style: italic;
+}
+/* フォントの形状をまとめて指定する */
+.small_caps {
+    font-family: Verdana;
+    font-variant: small-caps;
+}
+
+.section {
+    font-size: 62.5%;
+}
+
+.section2 {
+    font-size: 100%;
 }
