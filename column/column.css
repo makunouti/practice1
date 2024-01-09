@@ -1,3 +1,10 @@
 .section {
     column-count: 3;
 }
+h1.lead {
+    column-span: all; background: yellow;
+}
+.section2 {
+    height: 150px;
+    column-count: 2;
+}
