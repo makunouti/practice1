@@ -45,3 +45,7 @@
     font: 20px "Arial", sans-serif;
     font-stretch: condensed;
 } */
+
+.text {
+    writing-mode: vertical-lr;
+}
