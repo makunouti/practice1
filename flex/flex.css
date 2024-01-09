@@ -1,0 +1,27 @@
+.container {
+    width: auto; height: 240px; border: red solid 1px;
+    display: flex;
+    flex-direction: row;
+}
+.container2 {
+    width: auto;
+    height 240px;
+    border: red solid 1px;
+    display: flex;
+    flex-direction: column;
+}
+.box {
+    width: 100px;
+    height: 100px; 
+    border: solid gray 1px;
+    text-align: center;
+}
+.b1 {
+    background-color: rgba(252,188,184,0.5);
+}
+.b2 {
+    background-color: rgba(167,232,189,0.5);
+}
+.b3 {
+    background-color: rgba(255,245,104,0.5);
+}
