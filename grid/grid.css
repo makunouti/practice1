@@ -1,4 +1,4 @@
-/* .grid {
+.grid {
     display: grid;
     grid-template-columns: [left] 1fr [main] 8fr [main-end] 1fr [right];
     grid-template-rows: [top] 50px [nav] auto [content] minmax(100px, auto) [foot] 40px [bottom];
@@ -26,8 +26,8 @@
     grid-column-end: right;
     grid-row-start: foot;
     background: rgba(224,48,90,0.5);
-} */
-.grid {
+}
+/* .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(3,minmax(100px, auto));
@@ -57,4 +57,4 @@
 .footer {
     grid-area: footer;
     background: rgba(224,48,90,0.5);
-}
+} */
